@@ -7,5 +7,9 @@ height: 173px;
 align-items: center;
 justify-content: center;
 `;
+export const Content = styled.View`
+align-items:  center;
+
+`;
 
 

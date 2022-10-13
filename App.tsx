@@ -1,4 +1,3 @@
-
 import * as SplashScreen from "expo-splash-screen"
 import {useFonts,Inter_400Regular, Inter_700Bold} from '@expo-google-fonts/inter'
 import Home from './src/pages/Home'
@@ -24,7 +23,9 @@ export default function App() {
 
   return (
     <SafeAreaView onLayout={onLayoutRootView}>
+    
       <Home/>
+
     </SafeAreaView>
   )
  
