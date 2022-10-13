@@ -9,7 +9,11 @@ justify-content: center;
 `;
 export const Content = styled.View`
 align-items:  center;
+`;
 
+export const TextEmpty = styled.Text`
+ 
+ font-family: Inter_400Regular ;
 `;
 
 
