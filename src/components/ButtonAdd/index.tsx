@@ -1,5 +1,5 @@
 import React from "react";
-import { RectButton, RectButtonProps } from "react-native-gesture-handler";
+import { RectButtonProps } from "react-native-gesture-handler";
 import { Container } from "./styles";
 import { AntDesign } from "@expo/vector-icons";
 
